@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.sql
+test_db.py
+.streamlit/secrets.toml
+.db_uri
